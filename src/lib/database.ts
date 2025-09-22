@@ -40,7 +40,7 @@ export const projects = [
     description: 'Web hosting, platform with cPanel and domain.',
     image: '/images/hostshifts.png?height=400&width=600',
     tags: [
-      'ReactJS',
+      'VueJS',
       'TypeScript',
       'TailwindCSS',
       'Laravel',
@@ -110,7 +110,7 @@ export const experience = [
     id: 1,
     company: 'AnalogueShifts',
     position: 'FullStack Developer',
-    period: '2022 - 2023',
+    period: 'Apr 2022 - Jun 2024',
     description:
       'Led full-stack development initiatives, handling both the frontend and backend.',
   },
@@ -125,8 +125,8 @@ export const experience = [
   {
     id: 3,
     company: 'VroomNG',
-    position: 'Backend Developer',
-    period: '2023 - 2024',
+    position: 'Backend Engineer',
+    period: 'Oct 2023 - Mar 2025',
     description:
       'Developed RESTful APIs and backend services using NodeJS and Laravel.',
   },
@@ -134,22 +134,14 @@ export const experience = [
     id: 4,
     company: 'AnalogueShifts',
     position: 'Software Engineer',
-    period: '2024 - 2025',
+    period: 'Jun 2024 - Feb 2025',
     description: 'Lead software and backend engineer.',
   },
-  // {
-  //   id: 5,
-  //   company: 'HostShifts',
-  //   position: 'Senior Software Engineer',
-  //   period: '2024 - 2024',
-  //   description:
-  //     'Developed User interface frontend, and RESTful APIs backend services using React/TypeScript and Laravel/PHP',
-  // },
   {
     id: 6,
     company: 'FastBuka',
     position: 'Software Engineer',
-    period: '2025 - present',
+    period: 'Sep 2024 - Sep 2025',
     description:
       'Developed RESTful APIs and backend services using NestJS/TypeScript',
   },
