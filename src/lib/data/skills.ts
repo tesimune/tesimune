@@ -4,10 +4,10 @@ interface ISkills {
 }
 
 export const coreStack: ISkills[] = [
-  {
-    name: 'JavaScript',
-    src: 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg',
-  },
+  // {
+  //   name: 'JavaScript',
+  //   src: 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg',
+  // },
   {
     name: 'TypeScript',
     src: 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg',
@@ -15,6 +15,10 @@ export const coreStack: ISkills[] = [
   {
     name: 'Python',
     src: 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg',
+  },
+  {
+    name: 'Java',
+    src: 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg',
   },
   {
     name: 'PHP',
