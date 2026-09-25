@@ -9,7 +9,7 @@
 <p align="left">
   <b>Software Engineer/Developer</b> with 7+ years of experience building scalable, high-performance systems. 
   <br><br>
-  I specialize in architecting end-to-end solutions using <b>JavaScript/TypeScript, Python, and PHP</b>. 
+  I specialize in architecting end-to-end solutions using <b>JavaScript/TypeScript, Python, Java, and PHP</b>. 
   Beyond writing code, I am passionate about <b>modernizing infrastructure</b>, streamlining <b>CI/CD pipelines</b>, 
   and leveraging <b>cloud-native automation</b> to bridge the gap between development and operations.
 </p>
@@ -20,8 +20,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white&style=for-the-badge" height="40" alt="rust logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
