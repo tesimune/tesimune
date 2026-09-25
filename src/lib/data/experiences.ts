@@ -32,13 +32,4 @@ export const experiences: Experience[] = [
     company: 'AnalogueShifts',
     description: 'Lead software and backend engineer.',
   },
-
-  {
-    id: 4,
-    period: 'Sep 2024 - Sep 2025',
-    type: '(part-time, remote)',
-    role: 'Software Engineer',
-    company: 'FastBuka',
-    description: 'Developed RESTful APIs and backend services.',
-  },
 ];
